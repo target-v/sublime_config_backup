@@ -1,0 +1,9 @@
+[
+	{ "keys": ["f1"], "command": "goto_documentation" },
+	{ "keys": ["super+shift+t"], "command": "show_panel", "args": { "panel": "console", "toggle": true} },
+	{ "keys": ["super+shift+k"],  "command": "consolewrap"},
+	{ "keys": ["alt+f3"], "command": "find_all_under" },
+	{ "keys": ["super+shift+0"], "command": "reindent","args":    { "single_line": false} },
+	{ "keys": ["alt+d"], "command": "delete_trailing_spaces" },
+	{ "keys": ["super+shift+a"], "command": "align_tab","args" :  { "live_preview" : true} }
+]
