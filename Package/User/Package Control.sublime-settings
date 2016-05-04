@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Clang Format",
+		"Colorsublime",
+		"Console Wrap for js",
+		"DashDoc",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"EmmetOneLine",
+		"FuzzyFilePath",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Getters and Setters",
+		"Sass",
+		"SASS Snippets",
+		"Schemr",
+		"Seti_UI",
+		"StandardFormat",
+		"SublimeLinter",
+		"Terminal",
+		"Themr",
+		"TodoReview",
+		"TrailingSpaces",
+		"YandexTranslate"
+	]
+}
